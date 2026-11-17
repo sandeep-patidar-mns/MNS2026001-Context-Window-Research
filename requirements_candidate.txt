@@ -1,0 +1,1 @@
+torch>=2.2\ntransformers>=4.40\naccelerate>=0.28\nsentencepiece>=0.2\n
